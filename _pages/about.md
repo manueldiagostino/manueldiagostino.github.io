@@ -14,3 +14,6 @@ I am currently graduating with a bachelor's degree in Computer Science from the 
 
 # Projects
 - 🧑🏻‍🎓 Founder & Maintainer of [unipr-org](https://github.com/unipr-org)
+
+# Resources
+- 🧮 Probability formulary [here](../files/formulario.pdf)
