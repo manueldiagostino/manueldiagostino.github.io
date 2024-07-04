@@ -37,7 +37,7 @@ redirect_from:
 	<!-- 	<th>Details</th> -->
 	<!-- </tr> -->
 	<tr>
-		<td>2024</td>
+		<td>June 11, 2024</td>
 		<td>Bachelor's Degree (expected)</td>
 		<td>
 			<ul>
