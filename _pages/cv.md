@@ -29,6 +29,8 @@ redirect_from:
 	}
 </style>
 
+Full [here](../files/cv.pdf).
+
 ## Education
 <table>
 	<!-- <tr> -->
