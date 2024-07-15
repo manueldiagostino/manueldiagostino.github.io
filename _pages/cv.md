@@ -35,7 +35,7 @@ redirect_from:
 		font-size: 10px;
 		font-weight: bold;
 		color: #fff;
-		background-color: rgba(82, 173, 200, 0.8);
+		background-color: rgba(25, 154, 141, 0.8);
 		border-radius: 3px;
 		text-decoration: none !important;
 		transition: background-color 0.3s ease;
@@ -43,11 +43,26 @@ redirect_from:
 	}
 
 	.badge:hover {
-		background-color: rgba(78, 122, 191, 1);
+		background-color: #126c63;
+	}
+
+	.cv-preview {
+		display: block;
+		max-width: 75%;
+		height: auto;
+		margin: 10px auto;
+	}
+
+	.cv-preview:hover {
+		opacity: 0.8; /* Riduce leggermente l'opacità al passaggio del mouse */
 	}
 </style>
 
-Full [here](../files/cv.pdf).
+Click the image below for my full CV.
+<a href="../files/cv.pdf" target="_blank">
+    <img src="../files/cv-preview.png" alt="cv-preview.png" class="cv-preview">
+</a>
+
 
 ## Education
 <table>
@@ -71,7 +86,7 @@ Full [here](../files/cv.pdf).
 	</tr>
 </table>
 
-## Conferences
+## Conferences, workshops and school participations
 <table>
 	<tr>
 		<td>June 6-7, 2024</td>
