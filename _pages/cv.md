@@ -57,7 +57,7 @@ Full [here](../files/cv.pdf).
 	<tr>
 		<td>June 6-7, 2024</td>
 		<td>Participant</td>
-		<td>CSV 2024, 3th Challenges of Software Verification Symposium</td>
+		<td>CSV 2024, 3rd Challenges of Software Verification Symposium</td>
 	</tr>
 </table>
 
