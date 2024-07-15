@@ -72,7 +72,7 @@ Click the image below for my full CV.
 	<!-- 	<th>Details</th> -->
 	<!-- </tr> -->
 	<tr>
-		<td>June 11, 2024</td>
+		<td>July 11, 2024</td>
 		<td>Bachelor's Degree</td>
 		<td>
 			<ul>
