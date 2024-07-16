@@ -76,10 +76,11 @@ Click the image below for my full CV.
 		<td>Bachelor's Degree</td>
 		<td>
 			<ul>
-				<li><strong>Title:</strong> Valutazione sperimentale sull’individuazione automatica di errori di programmazione nel codice generato da LLM</li>
-				<li><strong>Grade:</strong> 110/110 <em>cum laude</em></li>
-				<li><strong>Supervisor:</strong> Prof. Enea Zaffanella</li>
-				<li><strong>Co-supervisor:</strong> Prof. Vincenzo Arceri</li>
+				<li><strong>Title</strong>: Valutazione sperimentale sull’individuazione automatica di errori di programmazione nel codice generato da LLM</li>
+				<li><strong>Grade</strong>: 110/110 <em>cum laude</em></li>
+				<li><strong>Supervisor</strong>: Prof. Enea Zaffanella</li>
+				<li><strong>Co-supervisor</strong>: Prof. Vincenzo Arceri</li>
+				<li><strong>Keywords</strong>: <em>Static Analysis, AI, LLM, Software Verification and Validation</em></li>
 				<li><a href="https://manueldiagostino.github.io/files/tesi_triennale.pdf" class="badge">Pdf</a><a href="https://manueldiagostino.github.io/files/slides_tesi_triennale.pdf" class="badge">Slides</a></li>
 			</ul>
 		</td>
