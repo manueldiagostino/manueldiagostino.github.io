@@ -48,7 +48,7 @@ redirect_from:
 
 	.cv-preview {
 		display: block;
-		max-width: 75%;
+		max-width: 100%;
 		height: auto;
 		margin: 10px auto;
 	}
