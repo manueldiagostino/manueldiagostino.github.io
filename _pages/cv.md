@@ -90,6 +90,11 @@ Click the image below for my full CV.
 ## Conferences, workshops and school participations
 <table>
 	<tr>
+		<td>September 1-7, 2024</td>
+		<td>Participant</td>
+		<td>Lipari Summer School on Abstract Interpretation</td>
+	</tr>
+	<tr>
 		<td>June 6-7, 2024</td>
 		<td>Participant</td>
 		<td>CSV 2024, 3rd Challenges of Software Verification Symposium</td>
